@@ -1,0 +1,61 @@
+<snippet>
+	<content><![CDATA[
+<div class="container-fluid">
+	<div class="row">
+		<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+			<div class="panel panel-default">
+				<div class="panel-heading">Register</div>
+				<div class="panel-body">
+					{!! Form::open(['url' => 'auth/register','class'=>'form-horizontal']) !!}
+						<div class="form-grup">
+							{!! Form::label('Name', 'Name',array('class'=>'col-md-4 control-label')) !!}
+							<div class="col-md-6">
+								{!! Form::text('Name', null, ['class' => 'form-control','placeholder'=>'Name']) !!}
+							</div>
+						</div>
+						<div class="form-grup">
+							{!! Form::label('email', 'E-Mail Address',array('class'=>'col-md-4 control-label')) !!}
+							<div class="col-md-6">
+								{!! Form::email('email', null, ['class' => 'form-control', 'placeholder'=>'E-Mail Address']) !!}
+							</div>
+						</div>
+						<div class="form-grup">
+							{!! Form::label('password', 'Password',array('class'=>'col-md-4 control-label')) !!}
+							<div class="col-md-6">
+								{!! Form::password('password', ['class' => 'form-control','placeholder'=>'password']) !!}
+							</div>
+						</div>
+						<div class="form-grup">
+							{!! Form::label('Confirm password', 'Confirm Password',array('class'=>'col-md-4 control-label')) !!}
+							<div class="col-md-6">
+								{!! Form::password('Confirm password', ['class' => 'form-control','placeholder'=>'Confirm password']) !!}
+							</div>
+						</div>
+						<div class="form-group">
+							<div class="col-md-6 col-md-offset-4">
+								<button type="submit" class="btn btn-primary">
+									Register
+								</button>
+							</div>
+						</div>
+					{!! Form::close() !!}
+					@if (count(\$errors) > 0)
+						<div class="alert alert-danger" role="alert">
+							<span class="glyphicon glyphicon-exclamation-sign" aria-hidden="true"></span>
+							<span class="sr-only">Error:</span>
+							@foreach(\$errors->all() as \$error)
+								{{\$error}}
+							@endforeach
+						</div>
+					@endif
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>form_register</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

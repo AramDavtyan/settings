@@ -1,0 +1,1501 @@
+{
+	"folder_history":
+	[
+		"/etc/nginx",
+		"/home/aram/www/remamber",
+		"/home/aram/www/kino.loc",
+		"/home/aram/www/laravel.loc",
+		"/home/aram/www/auth",
+		"/home/aram/www/Artfel",
+		"/home/aram/www/laravel",
+		"/home/aram/admin",
+		"/home/aram/orinak",
+		"/home/aram/www/gitorinak",
+		"/home/aram/www/comp"
+	],
+	"last_version": 3065,
+	"last_window_id": 6,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"Add",
+						"AddController"
+					],
+					[
+						"form",
+						"form_register	formregister"
+					],
+					[
+						"form_login",
+						"form_login	formlogin_css"
+					],
+					[
+						"formlogin",
+						"formlogin	formlogin"
+					],
+					[
+						"list",
+						"list-style"
+					],
+					[
+						"margin",
+						"margin-top"
+					],
+					[
+						"marg",
+						"margin"
+					],
+					[
+						"post",
+						"position"
+					],
+					[
+						"text",
+						"text-align"
+					],
+					[
+						"font",
+						"font-style"
+					],
+					[
+						"add",
+						"addClass	.addClass()"
+					],
+					[
+						"box",
+						"box-shadow"
+					],
+					[
+						"he",
+						"height"
+					],
+					[
+						"min",
+						"min-height"
+					],
+					[
+						"authenti",
+						"authenticated"
+					],
+					[
+						"slide",
+						"slideToggle	.slideToggle()"
+					],
+					[
+						"line",
+						"line-height"
+					],
+					[
+						"if",
+						"ifelse	<?php if (…) ?> … <?php else ?> … <?php endif ?>"
+					],
+					[
+						"inline",
+						"inline-block"
+					],
+					[
+						"for",
+						"for	for …"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 217.0,
+				"selected_items":
+				[
+					[
+						"packeg",
+						"Preferences: Browse Packages"
+					],
+					[
+						"menu",
+						"View: Toggle Menu"
+					],
+					[
+						"user",
+						"Preferences: Settings - User"
+					],
+					[
+						"git push",
+						"Git: Push"
+					],
+					[
+						"git",
+						"Git: Quick Commit"
+					],
+					[
+						"git add",
+						"Git: Add..."
+					],
+					[
+						"shell",
+						"SublimeREPL: Shell"
+					],
+					[
+						"add",
+						"Project: Add Folder"
+					],
+					[
+						"git ",
+						"Git: Quick Commit"
+					],
+					[
+						"git pu",
+						"Git: Push"
+					],
+					[
+						"git ad",
+						"Git: Add..."
+					],
+					[
+						"git pus",
+						"Git: Push"
+					],
+					[
+						"git q",
+						"Git: Quick Commit"
+					],
+					[
+						"git p",
+						"Git: Pull"
+					],
+					[
+						"git comm",
+						"Git: Commit"
+					],
+					[
+						"gitp ",
+						"Git: Push"
+					],
+					[
+						"git commi",
+						"Git: Quick Commit"
+					],
+					[
+						"git commit",
+						"Git: Quick Commit"
+					],
+					[
+						"git addd",
+						"Git: Add Selected Hunk"
+					],
+					[
+						"git qu",
+						"Git: Quick Commit"
+					],
+					[
+						"his",
+						"Clipboard History"
+					],
+					[
+						"hist",
+						"Clipboard History"
+					]
+				],
+				"width": 482.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/aram/Рабочий стол/style.css",
+				"/home/aram/Рабочий стол/add.css",
+				"/home/aram/Рабочий стол/index.php",
+				"/home/aram/www/host.sh",
+				"/etc/apache2/sites-available/000-default.conf",
+				"/home/aram/.config/sublime-text-3/Packages/User/ColorHighlighter.sublime-settings",
+				"/home/aram/.config/sublime-text-3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+				"/home/aram/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/aram/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/aram/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/etc/nginx/nginx.conf",
+				"/etc/nginx/sites-available/default",
+				"/etc/hosts",
+				"/etc/nginx/sites-available/domen2.com",
+				"/etc/nginx/sites-available/domen1.com",
+				"/usr/share/nginx/html/index",
+				"/home/aram/public_html/domen2.com/public/index.php",
+				"/home/aram/public_html/domen2.com/public/index.html",
+				"/home/aram/public_html/domen1.com/backup/index.html",
+				"/etc/nginx/sites-available/kino.loc",
+				"/usr/share/nginx/html/kino.loc/public/index.php",
+				"/home/aram/www/remamber/.env",
+				"/home/aram/www/remamber/config/database.php",
+				"/home/aram/www/remamber/resources/views/auth/login.blade.php",
+				"/home/aram/www/remamber/.htaccess",
+				"/home/aram/www/remamber/vendor/classpreloader/classpreloader/LICENSE",
+				"/home/aram/www/remamber/database/seeds/DatabaseSeeder.php",
+				"/home/aram/www/kino.loc/config/app.php",
+				"/home/aram/www/kino.loc/.htaccess",
+				"/home/aram/www/kino.loc/resources/views/add.blade.php",
+				"/home/aram/www/kino.loc/resources/views/post.blade.php",
+				"/home/aram/www/kino.loc/config/compile.php",
+				"/home/aram/www/kino.loc/app/Providers/RouteServiceProvider.php",
+				"/home/aram/www/kino.loc/public/.htaccess",
+				"/home/aram/www/kino.loc/composer.json",
+				"/home/aram/www/kino.loc/app/Http/Controllers/AddController.php",
+				"/home/aram/www/kino.loc/app/Http/routes.php",
+				"/home/aram/www/kino.loc/server.php",
+				"/home/aram/www/kino.loc/vendor/laravel/framework/src/Illuminate/Routing/Route.php",
+				"/home/aram/www/kino.loc/app/Services/Registrar.php",
+				"/home/aram/www/remamber/public/index.php",
+				"/home/aram/www/remamber/public/.htaccess",
+				"/home/aram/www/kino.loc/public/js/kino.js",
+				"/home/aram/www/kino.loc/public/css/style.css",
+				"/home/aram/www/kino.loc/resources/views/auth/register.blade.php",
+				"/home/aram/www/kino.loc/public/index.php",
+				"/home/aram/www/kino.loc/resources/views/auth/login.blade.php",
+				"/home/aram/www/kino.loc/app/Http/Controllers/Auth/PasswordController.php",
+				"/home/aram/www/kino.loc/resources/views/auth/reset.blade.php",
+				"/home/aram/www/kino.loc/vendor/laravel/framework/src/Illuminate/Foundation/Auth/ResetsPasswords.php",
+				"/home/aram/www/kino.loc/app/Http/Controllers/WelcomeController.php",
+				"/home/aram/www/kino.loc/app/Http/Controllers/Auth/AuthController.php",
+				"/home/aram/www/kino.loc/app/Http/Controllers/HomeController.php",
+				"/home/aram/www/kino.loc/vendor/composer/include_paths.php",
+				"/home/aram/www/kino.loc/vendor/symfony/security-core/Symfony/Component/Security/Core/Authentication/Token/PreAuthenticatedToken.php",
+				"/home/aram/www/kino.loc/package.json",
+				"/home/aram/www/kino.loc/.env",
+				"/home/aram/www/kino.loc/vendor/laravel/framework/src/Illuminate/Contracts/Auth/PasswordBroker.php",
+				"/home/aram/www/kino.loc/vendor/laravel/framework/src/Illuminate/Auth/Passwords/PasswordBroker.php",
+				"/home/aram/www/kino.loc/vendor/laravel/framework/src/Illuminate/Contracts/Auth/Guard.php",
+				"/home/aram/www/kino.loc/vendor/laravel/framework/src/Illuminate/Auth/Guard.php",
+				"/home/aram/www/kino.loc/app/User.php",
+				"/home/aram/www/kino.loc/vendor/phpdocumentor/reflection-docblock/src/phpDocumentor/Reflection/DocBlock/Tag/UsesTag.php",
+				"/home/aram/www/kino.loc/vendor/phpunit/php-token-stream/src/Token.php",
+				"/home/aram/www/kino.loc/resources/assets/less/bootstrap/mixins/text-overflow.less",
+				"/home/aram/www/kino.loc/tests/TestCase.php",
+				"/home/aram/www/kino.loc/vendor/laravel/framework/src/Illuminate/Auth/GenericUser.php",
+				"/home/aram/www/kino.loc/gulpfile.js",
+				"/home/aram/www/kino.loc/vendor/psy/psysh/test/tools/gen_unvis_fixtures.py",
+				"/home/aram/www/kino.loc/vendor/laravel/framework/src/Illuminate/Contracts/Auth/CanResetPassword.php",
+				"/home/aram/www/kino.loc/vendor/laravel/framework/src/Illuminate/Auth/Passwords/CanResetPassword.php",
+				"/home/aram/www/kino.loc/resources/views/welcome.blade.php",
+				"/home/aram/www/kino.loc/vendor/laravel/framework/src/Illuminate/Http/Request.php",
+				"/home/aram/www/kino.loc/app/Http/Requests/Request.php",
+				"/home/aram/www/kino.loc/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesAndRegistersUsers.php",
+				"/home/aram/www/kino.loc/vendor/laravel/framework/src/Illuminate/Queue/RedisQueue.php",
+				"/home/aram/www/kino.loc/vendor/laravel/framework/src/Illuminate/Contracts/Auth/Authenticatable.php",
+				"/home/aram/www/kino.loc/vendor/laravel/framework/src/Illuminate/Auth/Authenticatable.php",
+				"/home/aram/www/kino.loc/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/UriSigner.php",
+				"/home/aram/www/kino.loc/resources/views/auth/password.blade.php",
+				"/home/aram/www/kino.loc/resources/views/index.blade.php",
+				"/home/aram/www/kino.loc/resources/views/header/header.blade.php",
+				"/home/aram/www/kino.loc/bootstrap/app.php",
+				"/home/aram/.config/sublime-text-3/Packages/User/formregister.sublime-snippet",
+				"/home/aram/www/kino.loc/vendor/classpreloader/classpreloader/LICENSE",
+				"/home/aram/.config/sublime-text-3/Packages/User/formlogin.sublime-snippet",
+				"/home/aram/.config/sublime-text-3/Packages/User/formlogin_css.sublime-snippet",
+				"/home/aram/www/kino.loc/vendor/nikic/php-parser/lib/PhpParser/Error.php",
+				"/home/aram/www/kino.loc/vendor/phpspec/phpspec/src/PhpSpec/Runner/ExampleRunner.php",
+				"/home/aram/www/kino.loc/app/Events/Event.php",
+				"/home/aram/www/kino.loc/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Exception/HttpException.php",
+				"/home/aram/www/kino.loc/resources/views/master.blade.php",
+				"/home/aram/www/kino.loc/resources/views/leftbar/leftbar.blade.php",
+				"/home/aram/www/kino.loc/vendor/phpspec/prophecy/src/Prophecy/Exception/Doubler/InterfaceNotFoundException.php",
+				"/home/aram/www/kino.loc/resources/views/leftbar.blade.php",
+				"/home/aram/www/kino.loc/resources/views/header.blade.php",
+				"/home/aram/www/kino.loc/config/mail.php",
+				"/home/aram/www/kino.loc/resources/views/css-js.blade.php",
+				"/home/aram/www/kino.loc/resources/assets/less/bootstrap/dropdowns.less",
+				"/home/aram/www/kino.loc/vendor/phpspec/phpspec/features/code_generation/developer_reruns_features.feature",
+				"/home/aram/www/kino.loc/config/database.php",
+				"/home/aram/www/kino.loc/vendor/laravel/framework/src/Illuminate/Pagination/BootstrapThreeNextPreviousButtonRendererTrait.php",
+				"/home/aram/www/kino.loc/public/css/bootstrap.min.css",
+				"/home/aram/www/kino.loc/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp.php",
+				"/home/aram/www/kino.loc/storage/framework/views/b2fe8455d3c7dd4bd3328f444a344dfb",
+				"/home/aram/www/kino.loc/vendor/monolog/monolog/tests/Monolog/Handler/GelfHandlerLegacyTest.php",
+				"/home/aram/www/kino.loc/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Log/DebugLoggerInterface.php",
+				"/home/aram/www/kino.loc/vendor/monolog/monolog/src/Monolog/Handler/HandlerInterface.php",
+				"/home/aram/www/kino.loc/vendor/nesbot/carbon/history.md",
+				"/home/aram/www/kino.loc/vendor/phpunit/phpunit/src/Framework/Constraint/IsNull.php",
+				"/home/aram/www/kino.loc/vendor/phpspec/phpspec/spec/PhpSpec/Runner/MatcherManagerSpec.php",
+				"/home/aram/www/kino.loc/vendor/swiftmailer/swiftmailer/tests/acceptance/Swift/MessageAcceptanceTest.php",
+				"/home/aram/www/kino.loc/database/migrations/2014_10_12_000000_create_users_table.php",
+				"/home/aram/www/Artfel/config/mail.php",
+				"/home/aram/www/kino.loc/vendor/classpreloader/classpreloader/src/Config.php",
+				"/etc/apache2/sites-available/kino.conf",
+				"/home/aram/www/kino.loc/resources/views/admin.blade.php",
+				"/home/aram/www/kino.loc/resources/views/app.blade.php",
+				"/home/aram/www/kino.loc/resources/views/kino/index.blade.php",
+				"/home/aram/www/kino.loc/resources/views/aram.blade.php",
+				"/home/aram/www/kino.loc/app/Http/Controllers/IndexController.php",
+				"/home/aram/www/kino.loc/index.php",
+				"/home/aram/www/kino.loc/app/Providers/ConfigServiceProvider.php",
+				"/home/aram/www/kino.loc/app/Http/Controllers/Controller.php",
+				"/home/aram/www/kino.loc/vendor/composer/autoload_psr4.php",
+				"/home/aram/www/kino.loc/vendor/phpspec/phpspec/src/PhpSpec/Util/MethodAnalyser.php",
+				"/etc/apache2/sites-available/laravel.conf",
+				"/home/aram/www/laravel.loc/index.php"
+			],
+			"find":
+			{
+				"height": 49.0
+			},
+			"find_in_files":
+			{
+				"height": 124.0,
+				"where_history":
+				[
+					"/home/aram/www/kino.loc",
+					"/home/aram/www/Artfel"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"reg",
+					"sudo",
+					"html",
+					"php",
+					"index",
+					"demo",
+					"domain1",
+					"kino",
+					"kino.loc",
+					"mysite1.com",
+					"http://localhost",
+					"index",
+					"secret",
+					"homestead",
+					"root",
+					"homestead",
+					"awesome-project",
+					"$token",
+					"token",
+					"passwords",
+					"getReset",
+					"token",
+					"$tokens",
+					"$token",
+					"NotFoundHttpException",
+					"$token",
+					"getReset",
+					"$",
+					";",
+					"email",
+					"9",
+					";",
+					"short_text",
+					"a",
+					"426px",
+					"3",
+					"B84D29",
+					";",
+					"0",
+					";",
+					">\n",
+					"4",
+					"12",
+					"8",
+					"2",
+					"4",
+					"6",
+					"8",
+					"4",
+					"content_info",
+					"6",
+					"12",
+					".content_img",
+					"content",
+					"white",
+					"leftbar",
+					"5",
+					"4",
+					"0",
+					"6",
+					"0",
+					"9",
+					"accordion",
+					"3",
+					"55px",
+					"green",
+					"active",
+					"ornage",
+					"3",
+					"8",
+					"9",
+					"3",
+					"8",
+					"9",
+					"3",
+					"6",
+					"width",
+					"2",
+					"10",
+					"6",
+					"10",
+					"2",
+					"10",
+					"12",
+					"div",
+					"4",
+					"-3",
+					"4",
+					".",
+					"-	",
+					"href=\"",
+					"src=\"",
+					"href=\"",
+					"forge",
+					"secret",
+					"homestead",
+					"home",
+					"WelcomeController",
+					"forge",
+					"secret",
+					"laravel",
+					"forge",
+					"secret",
+					"homestead",
+					"auth",
+					"use Illuminate\\Http\\Request;",
+					"forge",
+					"logout",
+					"False",
+					"null",
+					"$user",
+					"/{",
+					"postRegister",
+					"missingMethod",
+					"postEmail",
+					"use Illuminate\\Http\\Request;",
+					"div",
+					"li",
+					"\n}",
+					"border",
+					"forge",
+					"secret",
+					"homestead",
+					"100",
+					"38",
+					"18",
+					"50",
+					"25, 80, 64"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 35.0
+			},
+			"input":
+			{
+				"height": 38.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 152.0
+			},
+			"replace":
+			{
+				"height": 66.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"login",
+						"resources/views/auth/login.blade.php"
+					],
+					[
+						"datab",
+						"config/database.php"
+					],
+					[
+						"composer",
+						"composer.json"
+					],
+					[
+						"addcontroller",
+						"app/Http/Controllers/AddController.php"
+					],
+					[
+						"route.php",
+						"vendor/laravel/framework/src/Illuminate/Routing/Route.php"
+					],
+					[
+						"data",
+						"config/database.php"
+					],
+					[
+						"paths.php",
+						"vendor/composer/include_paths.php"
+					],
+					[
+						"register",
+						"resources/views/auth/register.blade.php"
+					],
+					[
+						"passwordbroker",
+						"vendor/laravel/framework/src/Illuminate/Contracts/Auth/PasswordBroker.php"
+					],
+					[
+						"guard",
+						"vendor/laravel/framework/src/Illuminate/Contracts/Auth/Guard.php"
+					],
+					[
+						"gu",
+						"vendor/laravel/framework/src/Illuminate/Auth/Guard.php"
+					],
+					[
+						"home",
+						"app/Http/Controllers/HomeController.php"
+					],
+					[
+						"passwordcontroller",
+						"app/Http/Controllers/Auth/PasswordController.php"
+					],
+					[
+						"welc",
+						"app/Http/Controllers/WelcomeController.php"
+					],
+					[
+						"user",
+						"app/User.php"
+					],
+					[
+						"authenticatesandregistersusers",
+						"vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesAndRegistersUsers.php"
+					],
+					[
+						"auth",
+						"app/Http/Controllers/Auth/AuthController.php"
+					],
+					[
+						"welcome",
+						"app/Http/Controllers/WelcomeController.php"
+					],
+					[
+						"regiset",
+						"resources/views/auth/register.blade.php"
+					],
+					[
+						"header",
+						"resources/views/header/header.blade.php"
+					],
+					[
+						"index",
+						"resources/views/index.blade.php"
+					],
+					[
+						"master",
+						"resources/views/master.blade.php"
+					],
+					[
+						"matser",
+						"resources/views/master.blade.php"
+					],
+					[
+						"welcom",
+						"app/Http/Controllers/WelcomeController.php"
+					],
+					[
+						"2014",
+						"database/migrations/2014_10_12_000000_create_users_table.php"
+					],
+					[
+						"mail",
+						"config/mail.php"
+					],
+					[
+						"app",
+						"bootstrap/app.php"
+					],
+					[
+						"route",
+						"app/Http/routes.php"
+					],
+					[
+						"config",
+						"vendor/classpreloader/classpreloader/src/Config.php"
+					],
+					[
+						"mail.php",
+						"config/mail.php"
+					],
+					[
+						"databa",
+						"config/database.php"
+					],
+					[
+						"databsa",
+						"config/database.php"
+					],
+					[
+						"middleware",
+						"vendor/laravel/framework/src/Illuminate/Contracts/Routing/Middleware.php"
+					],
+					[
+						"password",
+						"app/Http/Controllers/Auth/PasswordController.php"
+					],
+					[
+						"regisetr",
+						"resources/views/auth/register.blade.php"
+					],
+					[
+						"reg",
+						"app/Services/Registrar.php"
+					],
+					[
+						"welco",
+						"resources/views/welcome.blade.php"
+					],
+					[
+						"home.blade",
+						"app/views/home/home.blade.php"
+					],
+					[
+						"homeco",
+						"app/controllers/HomeController.php"
+					],
+					[
+						"aja",
+						"app/views/ajax.blade.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 243.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"Add",
+						"AddController"
+					],
+					[
+						"form",
+						"form_register	formregister"
+					],
+					[
+						"form_login",
+						"form_login	formlogin_css"
+					],
+					[
+						"formlogin",
+						"formlogin	formlogin"
+					],
+					[
+						"list",
+						"list-style"
+					],
+					[
+						"margin",
+						"margin-top"
+					],
+					[
+						"marg",
+						"margin"
+					],
+					[
+						"post",
+						"position"
+					],
+					[
+						"text",
+						"text-align"
+					],
+					[
+						"font",
+						"font-style"
+					],
+					[
+						"add",
+						"addClass	.addClass()"
+					],
+					[
+						"box",
+						"box-shadow"
+					],
+					[
+						"he",
+						"height"
+					],
+					[
+						"min",
+						"min-height"
+					],
+					[
+						"authenti",
+						"authenticated"
+					],
+					[
+						"slide",
+						"slideToggle	.slideToggle()"
+					],
+					[
+						"line",
+						"line-height"
+					],
+					[
+						"if",
+						"ifelse	<?php if (…) ?> … <?php else ?> … <?php endif ?>"
+					],
+					[
+						"inline",
+						"inline-block"
+					],
+					[
+						"for",
+						"for	for …"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 217.0,
+				"selected_items":
+				[
+					[
+						"packeg",
+						"Preferences: Browse Packages"
+					],
+					[
+						"menu",
+						"View: Toggle Menu"
+					],
+					[
+						"user",
+						"Preferences: Settings - User"
+					],
+					[
+						"git push",
+						"Git: Push"
+					],
+					[
+						"git",
+						"Git: Quick Commit"
+					],
+					[
+						"git add",
+						"Git: Add..."
+					],
+					[
+						"shell",
+						"SublimeREPL: Shell"
+					],
+					[
+						"add",
+						"Project: Add Folder"
+					],
+					[
+						"git ",
+						"Git: Quick Commit"
+					],
+					[
+						"git pu",
+						"Git: Push"
+					],
+					[
+						"git ad",
+						"Git: Add..."
+					],
+					[
+						"git pus",
+						"Git: Push"
+					],
+					[
+						"git q",
+						"Git: Quick Commit"
+					],
+					[
+						"git p",
+						"Git: Pull"
+					],
+					[
+						"git comm",
+						"Git: Commit"
+					],
+					[
+						"gitp ",
+						"Git: Push"
+					],
+					[
+						"git commi",
+						"Git: Quick Commit"
+					],
+					[
+						"git commit",
+						"Git: Quick Commit"
+					],
+					[
+						"git addd",
+						"Git: Add Selected Hunk"
+					],
+					[
+						"git qu",
+						"Git: Quick Commit"
+					],
+					[
+						"his",
+						"Clipboard History"
+					],
+					[
+						"hist",
+						"Clipboard History"
+					]
+				],
+				"width": 482.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/aram/Рабочий стол/style.css",
+				"/home/aram/Рабочий стол/add.css",
+				"/home/aram/Рабочий стол/index.php",
+				"/home/aram/www/host.sh",
+				"/etc/apache2/sites-available/000-default.conf",
+				"/home/aram/.config/sublime-text-3/Packages/User/ColorHighlighter.sublime-settings",
+				"/home/aram/.config/sublime-text-3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+				"/home/aram/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/aram/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/aram/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/etc/nginx/nginx.conf",
+				"/etc/nginx/sites-available/default",
+				"/etc/hosts",
+				"/etc/nginx/sites-available/domen2.com",
+				"/etc/nginx/sites-available/domen1.com",
+				"/usr/share/nginx/html/index",
+				"/home/aram/public_html/domen2.com/public/index.php",
+				"/home/aram/public_html/domen2.com/public/index.html",
+				"/home/aram/public_html/domen1.com/backup/index.html",
+				"/etc/nginx/sites-available/kino.loc",
+				"/usr/share/nginx/html/kino.loc/public/index.php",
+				"/home/aram/www/remamber/.env",
+				"/home/aram/www/remamber/config/database.php",
+				"/home/aram/www/remamber/resources/views/auth/login.blade.php",
+				"/home/aram/www/remamber/.htaccess",
+				"/home/aram/www/remamber/vendor/classpreloader/classpreloader/LICENSE",
+				"/home/aram/www/remamber/database/seeds/DatabaseSeeder.php",
+				"/home/aram/www/kino.loc/config/app.php",
+				"/home/aram/www/kino.loc/.htaccess",
+				"/home/aram/www/kino.loc/resources/views/add.blade.php",
+				"/home/aram/www/kino.loc/resources/views/post.blade.php",
+				"/home/aram/www/kino.loc/config/compile.php",
+				"/home/aram/www/kino.loc/app/Providers/RouteServiceProvider.php",
+				"/home/aram/www/kino.loc/public/.htaccess",
+				"/home/aram/www/kino.loc/composer.json",
+				"/home/aram/www/kino.loc/app/Http/Controllers/AddController.php",
+				"/home/aram/www/kino.loc/app/Http/routes.php",
+				"/home/aram/www/kino.loc/server.php",
+				"/home/aram/www/kino.loc/vendor/laravel/framework/src/Illuminate/Routing/Route.php",
+				"/home/aram/www/kino.loc/app/Services/Registrar.php",
+				"/home/aram/www/remamber/public/index.php",
+				"/home/aram/www/remamber/public/.htaccess",
+				"/home/aram/www/kino.loc/public/js/kino.js",
+				"/home/aram/www/kino.loc/public/css/style.css",
+				"/home/aram/www/kino.loc/resources/views/auth/register.blade.php",
+				"/home/aram/www/kino.loc/public/index.php",
+				"/home/aram/www/kino.loc/resources/views/auth/login.blade.php",
+				"/home/aram/www/kino.loc/app/Http/Controllers/Auth/PasswordController.php",
+				"/home/aram/www/kino.loc/resources/views/auth/reset.blade.php",
+				"/home/aram/www/kino.loc/vendor/laravel/framework/src/Illuminate/Foundation/Auth/ResetsPasswords.php",
+				"/home/aram/www/kino.loc/app/Http/Controllers/WelcomeController.php",
+				"/home/aram/www/kino.loc/app/Http/Controllers/Auth/AuthController.php",
+				"/home/aram/www/kino.loc/app/Http/Controllers/HomeController.php",
+				"/home/aram/www/kino.loc/vendor/composer/include_paths.php",
+				"/home/aram/www/kino.loc/vendor/symfony/security-core/Symfony/Component/Security/Core/Authentication/Token/PreAuthenticatedToken.php",
+				"/home/aram/www/kino.loc/package.json",
+				"/home/aram/www/kino.loc/.env",
+				"/home/aram/www/kino.loc/vendor/laravel/framework/src/Illuminate/Contracts/Auth/PasswordBroker.php",
+				"/home/aram/www/kino.loc/vendor/laravel/framework/src/Illuminate/Auth/Passwords/PasswordBroker.php",
+				"/home/aram/www/kino.loc/vendor/laravel/framework/src/Illuminate/Contracts/Auth/Guard.php",
+				"/home/aram/www/kino.loc/vendor/laravel/framework/src/Illuminate/Auth/Guard.php",
+				"/home/aram/www/kino.loc/app/User.php",
+				"/home/aram/www/kino.loc/vendor/phpdocumentor/reflection-docblock/src/phpDocumentor/Reflection/DocBlock/Tag/UsesTag.php",
+				"/home/aram/www/kino.loc/vendor/phpunit/php-token-stream/src/Token.php",
+				"/home/aram/www/kino.loc/resources/assets/less/bootstrap/mixins/text-overflow.less",
+				"/home/aram/www/kino.loc/tests/TestCase.php",
+				"/home/aram/www/kino.loc/vendor/laravel/framework/src/Illuminate/Auth/GenericUser.php",
+				"/home/aram/www/kino.loc/gulpfile.js",
+				"/home/aram/www/kino.loc/vendor/psy/psysh/test/tools/gen_unvis_fixtures.py",
+				"/home/aram/www/kino.loc/vendor/laravel/framework/src/Illuminate/Contracts/Auth/CanResetPassword.php",
+				"/home/aram/www/kino.loc/vendor/laravel/framework/src/Illuminate/Auth/Passwords/CanResetPassword.php",
+				"/home/aram/www/kino.loc/resources/views/welcome.blade.php",
+				"/home/aram/www/kino.loc/vendor/laravel/framework/src/Illuminate/Http/Request.php",
+				"/home/aram/www/kino.loc/app/Http/Requests/Request.php",
+				"/home/aram/www/kino.loc/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesAndRegistersUsers.php",
+				"/home/aram/www/kino.loc/vendor/laravel/framework/src/Illuminate/Queue/RedisQueue.php",
+				"/home/aram/www/kino.loc/vendor/laravel/framework/src/Illuminate/Contracts/Auth/Authenticatable.php",
+				"/home/aram/www/kino.loc/vendor/laravel/framework/src/Illuminate/Auth/Authenticatable.php",
+				"/home/aram/www/kino.loc/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/UriSigner.php",
+				"/home/aram/www/kino.loc/resources/views/auth/password.blade.php",
+				"/home/aram/www/kino.loc/resources/views/index.blade.php",
+				"/home/aram/www/kino.loc/resources/views/header/header.blade.php",
+				"/home/aram/www/kino.loc/bootstrap/app.php",
+				"/home/aram/.config/sublime-text-3/Packages/User/formregister.sublime-snippet",
+				"/home/aram/www/kino.loc/vendor/classpreloader/classpreloader/LICENSE",
+				"/home/aram/.config/sublime-text-3/Packages/User/formlogin.sublime-snippet",
+				"/home/aram/.config/sublime-text-3/Packages/User/formlogin_css.sublime-snippet",
+				"/home/aram/www/kino.loc/vendor/nikic/php-parser/lib/PhpParser/Error.php",
+				"/home/aram/www/kino.loc/vendor/phpspec/phpspec/src/PhpSpec/Runner/ExampleRunner.php",
+				"/home/aram/www/kino.loc/app/Events/Event.php",
+				"/home/aram/www/kino.loc/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Exception/HttpException.php",
+				"/home/aram/www/kino.loc/resources/views/master.blade.php",
+				"/home/aram/www/kino.loc/resources/views/leftbar/leftbar.blade.php",
+				"/home/aram/www/kino.loc/vendor/phpspec/prophecy/src/Prophecy/Exception/Doubler/InterfaceNotFoundException.php",
+				"/home/aram/www/kino.loc/resources/views/leftbar.blade.php",
+				"/home/aram/www/kino.loc/resources/views/header.blade.php",
+				"/home/aram/www/kino.loc/config/mail.php",
+				"/home/aram/www/kino.loc/resources/views/css-js.blade.php",
+				"/home/aram/www/kino.loc/resources/assets/less/bootstrap/dropdowns.less",
+				"/home/aram/www/kino.loc/vendor/phpspec/phpspec/features/code_generation/developer_reruns_features.feature",
+				"/home/aram/www/kino.loc/config/database.php",
+				"/home/aram/www/kino.loc/vendor/laravel/framework/src/Illuminate/Pagination/BootstrapThreeNextPreviousButtonRendererTrait.php",
+				"/home/aram/www/kino.loc/public/css/bootstrap.min.css",
+				"/home/aram/www/kino.loc/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp.php",
+				"/home/aram/www/kino.loc/storage/framework/views/b2fe8455d3c7dd4bd3328f444a344dfb",
+				"/home/aram/www/kino.loc/vendor/monolog/monolog/tests/Monolog/Handler/GelfHandlerLegacyTest.php",
+				"/home/aram/www/kino.loc/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Log/DebugLoggerInterface.php",
+				"/home/aram/www/kino.loc/vendor/monolog/monolog/src/Monolog/Handler/HandlerInterface.php",
+				"/home/aram/www/kino.loc/vendor/nesbot/carbon/history.md",
+				"/home/aram/www/kino.loc/vendor/phpunit/phpunit/src/Framework/Constraint/IsNull.php",
+				"/home/aram/www/kino.loc/vendor/phpspec/phpspec/spec/PhpSpec/Runner/MatcherManagerSpec.php",
+				"/home/aram/www/kino.loc/vendor/swiftmailer/swiftmailer/tests/acceptance/Swift/MessageAcceptanceTest.php",
+				"/home/aram/www/kino.loc/database/migrations/2014_10_12_000000_create_users_table.php",
+				"/home/aram/www/Artfel/config/mail.php",
+				"/home/aram/www/kino.loc/vendor/classpreloader/classpreloader/src/Config.php",
+				"/etc/apache2/sites-available/kino.conf",
+				"/home/aram/www/kino.loc/resources/views/admin.blade.php",
+				"/home/aram/www/kino.loc/resources/views/app.blade.php",
+				"/home/aram/www/kino.loc/resources/views/kino/index.blade.php",
+				"/home/aram/www/kino.loc/resources/views/aram.blade.php",
+				"/home/aram/www/kino.loc/app/Http/Controllers/IndexController.php",
+				"/home/aram/www/kino.loc/index.php",
+				"/home/aram/www/kino.loc/app/Providers/ConfigServiceProvider.php",
+				"/home/aram/www/kino.loc/app/Http/Controllers/Controller.php",
+				"/home/aram/www/kino.loc/vendor/composer/autoload_psr4.php",
+				"/home/aram/www/kino.loc/vendor/phpspec/phpspec/src/PhpSpec/Util/MethodAnalyser.php",
+				"/etc/apache2/sites-available/laravel.conf",
+				"/home/aram/www/laravel.loc/index.php"
+			],
+			"find":
+			{
+				"height": 49.0
+			},
+			"find_in_files":
+			{
+				"height": 124.0,
+				"where_history":
+				[
+					"/home/aram/www/kino.loc",
+					"/home/aram/www/Artfel"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"reg",
+					"sudo",
+					"html",
+					"php",
+					"index",
+					"demo",
+					"domain1",
+					"kino",
+					"kino.loc",
+					"mysite1.com",
+					"http://localhost",
+					"index",
+					"secret",
+					"homestead",
+					"root",
+					"homestead",
+					"awesome-project",
+					"$token",
+					"token",
+					"passwords",
+					"getReset",
+					"token",
+					"$tokens",
+					"$token",
+					"NotFoundHttpException",
+					"$token",
+					"getReset",
+					"$",
+					";",
+					"email",
+					"9",
+					";",
+					"short_text",
+					"a",
+					"426px",
+					"3",
+					"B84D29",
+					";",
+					"0",
+					";",
+					">\n",
+					"4",
+					"12",
+					"8",
+					"2",
+					"4",
+					"6",
+					"8",
+					"4",
+					"content_info",
+					"6",
+					"12",
+					".content_img",
+					"content",
+					"white",
+					"leftbar",
+					"5",
+					"4",
+					"0",
+					"6",
+					"0",
+					"9",
+					"accordion",
+					"3",
+					"55px",
+					"green",
+					"active",
+					"ornage",
+					"3",
+					"8",
+					"9",
+					"3",
+					"8",
+					"9",
+					"3",
+					"6",
+					"width",
+					"2",
+					"10",
+					"6",
+					"10",
+					"2",
+					"10",
+					"12",
+					"div",
+					"4",
+					"-3",
+					"4",
+					".",
+					"-	",
+					"href=\"",
+					"src=\"",
+					"href=\"",
+					"forge",
+					"secret",
+					"homestead",
+					"home",
+					"WelcomeController",
+					"forge",
+					"secret",
+					"laravel",
+					"forge",
+					"secret",
+					"homestead",
+					"auth",
+					"use Illuminate\\Http\\Request;",
+					"forge",
+					"logout",
+					"False",
+					"null",
+					"$user",
+					"/{",
+					"postRegister",
+					"missingMethod",
+					"postEmail",
+					"use Illuminate\\Http\\Request;",
+					"div",
+					"li",
+					"\n}",
+					"border",
+					"forge",
+					"secret",
+					"homestead",
+					"100",
+					"38",
+					"18",
+					"50",
+					"25, 80, 64"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				},
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 35.0
+			},
+			"input":
+			{
+				"height": 38.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.294781382228,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 152.0
+			},
+			"position": "0,1,0,0,0,0,0,0,0,3840,1080",
+			"project": "",
+			"replace":
+			{
+				"height": 66.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"login",
+						"resources/views/auth/login.blade.php"
+					],
+					[
+						"datab",
+						"config/database.php"
+					],
+					[
+						"composer",
+						"composer.json"
+					],
+					[
+						"addcontroller",
+						"app/Http/Controllers/AddController.php"
+					],
+					[
+						"route.php",
+						"vendor/laravel/framework/src/Illuminate/Routing/Route.php"
+					],
+					[
+						"data",
+						"config/database.php"
+					],
+					[
+						"paths.php",
+						"vendor/composer/include_paths.php"
+					],
+					[
+						"register",
+						"resources/views/auth/register.blade.php"
+					],
+					[
+						"passwordbroker",
+						"vendor/laravel/framework/src/Illuminate/Contracts/Auth/PasswordBroker.php"
+					],
+					[
+						"guard",
+						"vendor/laravel/framework/src/Illuminate/Contracts/Auth/Guard.php"
+					],
+					[
+						"gu",
+						"vendor/laravel/framework/src/Illuminate/Auth/Guard.php"
+					],
+					[
+						"home",
+						"app/Http/Controllers/HomeController.php"
+					],
+					[
+						"passwordcontroller",
+						"app/Http/Controllers/Auth/PasswordController.php"
+					],
+					[
+						"welc",
+						"app/Http/Controllers/WelcomeController.php"
+					],
+					[
+						"user",
+						"app/User.php"
+					],
+					[
+						"authenticatesandregistersusers",
+						"vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesAndRegistersUsers.php"
+					],
+					[
+						"auth",
+						"app/Http/Controllers/Auth/AuthController.php"
+					],
+					[
+						"welcome",
+						"app/Http/Controllers/WelcomeController.php"
+					],
+					[
+						"regiset",
+						"resources/views/auth/register.blade.php"
+					],
+					[
+						"header",
+						"resources/views/header/header.blade.php"
+					],
+					[
+						"index",
+						"resources/views/index.blade.php"
+					],
+					[
+						"master",
+						"resources/views/master.blade.php"
+					],
+					[
+						"matser",
+						"resources/views/master.blade.php"
+					],
+					[
+						"welcom",
+						"app/Http/Controllers/WelcomeController.php"
+					],
+					[
+						"2014",
+						"database/migrations/2014_10_12_000000_create_users_table.php"
+					],
+					[
+						"mail",
+						"config/mail.php"
+					],
+					[
+						"app",
+						"bootstrap/app.php"
+					],
+					[
+						"route",
+						"app/Http/routes.php"
+					],
+					[
+						"config",
+						"vendor/classpreloader/classpreloader/src/Config.php"
+					],
+					[
+						"mail.php",
+						"config/mail.php"
+					],
+					[
+						"databa",
+						"config/database.php"
+					],
+					[
+						"databsa",
+						"config/database.php"
+					],
+					[
+						"middleware",
+						"vendor/laravel/framework/src/Illuminate/Contracts/Routing/Middleware.php"
+					],
+					[
+						"password",
+						"app/Http/Controllers/Auth/PasswordController.php"
+					],
+					[
+						"regisetr",
+						"resources/views/auth/register.blade.php"
+					],
+					[
+						"reg",
+						"app/Services/Registrar.php"
+					],
+					[
+						"welco",
+						"resources/views/welcome.blade.php"
+					],
+					[
+						"home.blade",
+						"app/views/home/home.blade.php"
+					],
+					[
+						"homeco",
+						"app/controllers/HomeController.php"
+					],
+					[
+						"aja",
+						"app/views/ajax.blade.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 1,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 243.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 5,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

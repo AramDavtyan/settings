@@ -1,0 +1,9 @@
+auto lo
+iface lo inet loopback
+auto eth0
+iface eth0 inet static
+address 109.75.35.157
+netmask 255.255.255.0
+broadcast 92.43.138.1
+gateway 109.75.35.1
+dns-nameservers 92.43.137.1

@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<div class="form-grup">
+	{!! Form::file('image', null, ['class' => 'form-control']) !!}
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>formimage</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

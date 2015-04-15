@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+<video width="480" height="204" controls preload="metadata">
+<source src="asd.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+<source src="asd.webm" type='video/webm; codecs="vp8, vorbis"' />
+<source src="asd.ogv" type='video/ogg; codecs="theora, vorbis"' />
+</video>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>video</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

@@ -1,0 +1,5 @@
+*.sublime-workspace
+*.pyc
+package-metadata.json
+/web/node_modules
+*.sublime-project

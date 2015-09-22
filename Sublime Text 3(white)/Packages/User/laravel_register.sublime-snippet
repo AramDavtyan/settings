@@ -1,0 +1,65 @@
+<snippet>
+	<content><![CDATA[
+		<!DOCTYPE html>
+		<html>
+		<head>
+			<title>Register</title>
+			<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+		</head>
+		<body>
+			<div class="container-fluid">
+				<div class="row">
+					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+						<div class="panel panel-default">
+							<div class="panel-heading">Login</div>
+							<div class="panel-body">
+								{!! Form::open(['url' => 'auth/login', 'class' => 'form-horizontal']) !!}
+
+									<div class="form-group">
+									{!! Form::label('name', 'Name', ['class' => 'col-md-4 control-label']) !!}
+										<div class="col-md-6 col-lg-4">
+											{!! Form::text('name', null, ['class' => 'form-control', 'placeholder'=>'Name']) !!}
+										</div>
+									</div>
+
+									<div class="form-group">
+									{!! Form::label('email', 'Email', ['class' => 'col-md-4 control-label']) !!}
+										<div class="col-md-6 col-lg-4">
+											{!! Form::email('email', null, ['class' => 'form-control', 'placeholder'=>'Email']) !!}
+										</div>
+									</div>
+
+									<div class="form-group">
+										{!! Form::label('password', 'Password', ['class' => 'col-md-4 control-label']) !!}
+										<div class="col-md-6 col-lg-4">
+											{!! Form::password('password', ['class' => 'form-control','placeholder'=>'password']) !!}
+										</div>
+									</div>
+
+									<div class="form-group">
+										{!! Form::label('password_confirmation', 'Confirm Password', ['class' => 'col-md-4 control-label']) !!}
+										<div class="col-md-6 col-lg-4">
+											{!! Form::password('password_confirmation', ['class' => 'form-control','placeholder'=>'Confirm Password']) !!}
+										</div>
+									</div>
+
+									<div class="form-group">
+										<div class="col-md-6 col-md-offset-4">
+											<button type="submit" class="btn btn-primary">Register</button>
+										</div>
+									</div>
+
+								{!! Form::close() !!}
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</body>
+		</html>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>laravel_register</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

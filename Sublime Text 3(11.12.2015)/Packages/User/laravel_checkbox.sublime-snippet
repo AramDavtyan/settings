@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+<div class="form-group">
+	<div class="col-md-offset-4">
+		<div class="checkbox">
+			{!! Form::label('token', 'Remember Me') !!}	
+			{!! Form::checkbox('remember_token', 1, null, ['id' => 'token','style' =>'margin-left: 15px']) !!}
+		</div>
+	</div>
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>laravel_checkbox</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

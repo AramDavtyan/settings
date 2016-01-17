@@ -1,0 +1,1 @@
+scp -P 1986 /home/aram/downloads/nginx_signing.key aram@109.75.35.157:/home/aram/

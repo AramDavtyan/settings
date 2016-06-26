@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+<input type="hidden" name="_token" value="{{ csrf_token() }}">
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>laravel_csrf_token</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+</snippet>

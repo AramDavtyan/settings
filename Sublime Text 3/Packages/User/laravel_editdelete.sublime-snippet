@@ -1,0 +1,42 @@
+<snippet>
+  <content><![CDATA[
+    <div class="col-md-9 col-lg-9 col-sm-9 col-xs-12">
+      <div class="panel panel-default">
+            <div class="panel-heading">
+              <div class="row">
+              <span class="float">Все записи</span>
+              </div>
+            </div>
+
+            <table class="table table-bordered table_sort">
+              <thead>
+                <tr>
+                  <th>#</th>
+                  <th>Заголовки</th>
+                  <th>Действие</th>
+                </tr>
+              </thead>
+              @foreach (\$home as \$value)
+              <tbody>
+                <tr>
+                  <td>{{\$value->id}}</td>
+                  <td>{{\$value->after}}</td>
+                  <td>{{\$value->books}}</td>
+                  <td><a href="{{URL::to('admin/addArticle/'.\$value->id.'/edit')}}" type="button" class="pull-left btn btn-danger btn-xs">Редактировать </a>
+                    {!! Form::open(['url' => 'admin/addArticle/'.\$value->id,'method' => 'delete']) !!}
+                      <button type="submit" class="btn btn-danger btn-xs" style="margin-left:5px">Удалить</button>
+                    {!! Form::close() !!}
+                  </td>
+                </tr>
+              </tbody>
+              @endforeach
+            </table>
+          </div>
+          <a class="btn btn-primary active" style="float:right" href="{{URL::to('create')}}">Добавит</a>
+    </div>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>laravel_editdelete</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+</snippet>

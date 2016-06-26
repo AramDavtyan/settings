@@ -1,0 +1,22 @@
+<snippet>
+  <content><![CDATA[
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+      <div class="panel panel-default">
+        <div class="panel-heading">Login</div>
+        <div class="panel-body">
+          {!! Form::open(['url' => 'auth/register', 'class' => 'form-horizontal']) !!}
+            ${0}
+          {!! Form::close() !!}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>laravel_form</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+</snippet>

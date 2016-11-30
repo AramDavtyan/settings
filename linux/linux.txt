@@ -31,3 +31,10 @@ $ sudo apt-get install mintdrivers
 https://www.gnome-look.org/p/1154696
 https://www.linux-apps.com/p/1136805/ download https://www.linux-apps.com/p/1136805/
 #thema
+
+
+
+#change capslock from esc
+org/gnome/desctop/input-sources
+caps:swapescape
+#change capslock from esc

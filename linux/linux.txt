@@ -38,3 +38,18 @@ https://www.linux-apps.com/p/1136805/ download https://www.linux-apps.com/p/1136
 org/gnome/desctop/input-sources
 caps:swapescape
 #change capslock from esc
+
+
+#thema
+sudo add-apt-repository ppa:snwh/pulp
+sudo apt-get update
+sudo apt-get install paper-icon-theme
+sudo apt-get install paper-gtk-theme
+sudo apt-get install paper-cursor-theme
+#thema
+
+#gtk
+sudo install software-properties-gtk
+#gtk
+
+

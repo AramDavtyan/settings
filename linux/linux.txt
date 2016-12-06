@@ -52,6 +52,13 @@ sudo apt-get install paper-cursor-theme
 sudo install software-properties-gtk
 #gtk
 
+#install tar.xz
+
+tar Jxvf app.tar.xz
+
+#install tar.xz
+
+
 
 
 

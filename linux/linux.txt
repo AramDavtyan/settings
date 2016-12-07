@@ -68,9 +68,11 @@ Nodeys ZSH theme
 
 
 
-
-
-
+#remastersys
+sudo add-apt-repository ppa:inameiname/stable
+sudo apt-get update
+sudo apt-get install remastersys
+#remastersys
 
 
 

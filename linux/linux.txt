@@ -63,6 +63,7 @@ tar Jxvf app.tar.xz
 #terminal
 font Inconsolata 13
 background #002d37
+Nodeys ZSH theme
 #terminal
 
 

@@ -64,6 +64,7 @@ tar Jxvf app.tar.xz
 font Inconsolata 13
 background #002d37
 Nodeys ZSH theme
+zsh theam fino-time
 #terminal
 
 
@@ -77,7 +78,7 @@ sudo apt-get install remastersys
 
 
 
-#Download Elementary OS from here: 
+#Download Elementary OS from here:
 #http://sourceforge.net/projects/elementaryos/files/stable/
 
 #First you update your system
@@ -137,7 +138,7 @@ sudo apt-get update && sudo apt-get dist-upgrade
 #For Nvidia Cards
 sudo apt-get install nvidia-331
 
-#For AMD/ATI Cards 
+#For AMD/ATI Cards
 sudo apt-get install fglrx-installer
 
 
@@ -170,7 +171,7 @@ sudo apt-get install elementary-elfaenza-icons elementary-nitrux-icons
 sudo apt-get install elementary-plank-themes
 sudo apt-get install wingpanel-slim indicator-synapse
 
-#if not installed 
+#if not installed
 #Install the Dynamic Kernel Module Support Framework
 sudo apt-get install dkms
 

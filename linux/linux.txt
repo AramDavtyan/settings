@@ -58,6 +58,16 @@ tar Jxvf app.tar.xz
 
 #install tar.xz
 
+#numlk
+sudo apt-get install numlockx -y
+
+sudo vim /usr/share/lightdm/lightdm.conf.d/40-pantheon-greeter.conf
+
+# add this line:
+greeter-setup-script=/usr/bin/numlockx on
+
+# restart
+#numlk
 
 
 #terminal

@@ -33,7 +33,7 @@
 				<key>background</key>
 				<string>#1B2B34</string>
 				<key>caret</key>
-				<string>#c0c5ce</string>
+				<string>#ff0000</string>
 				<key>foreground</key>
 				<string>#CDD3DE</string>
 				<key>guide</key>
@@ -43,7 +43,7 @@
 				<key>lineHighlight</key>
 				<string>#65737e55</string>
 				<key>selection</key>
-				<string>#4f5b66</string>
+				<string>#F5AA0065</string>
 				<key>stackGuide</key>
 				<string>#4F5B66</string>
 			</dict>

@@ -1,0 +1,18 @@
+// Place your settings in this file to overwrite the default settings
+{
+  "editor.fontSize": 16,
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 500,
+  "editor.lineHeight": 30,
+  "editor.renderLineHighlight": "gutter",
+  "editor.renderWhitespace": "all",
+  "window.menuBarVisibility": "toggle",
+  "editor.wordWrap": true,
+  "workbench.sideBar.location": "left",
+  "terminal.integrated.cursorStyle": "line",
+  "editor.fontFamily": "'Courier New', 'Courier New', monospace, 'Droid Sans Fallback'",
+  "editor.wrappingColumn": -1,
+  "editor.stablePeek": true,
+  "json.format.enable": true,
+  "editor.selectionHighlight": false
+}

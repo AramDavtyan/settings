@@ -1,0 +1,74 @@
+{
+	"name": "TypeScriptImport",
+	"displayName": "TypeScript Import",
+	"description": "Automates importing of TypeScript classes",
+	"icon": "etc/icon.png",
+	"author": "Kevin McGowan",
+	"license": "MIT",
+	"version": "1.17.0",
+	"publisher": "kevinmcgowan",
+	"engines": {
+		"vscode": "^1.8.0"
+	},
+	"categories": [
+		"Languages"
+	],
+	"activationEvents": [
+		"onLanguage:typescript",
+		"onLanguage:javascript"
+	],
+	"main": "./out/extension",
+	"contributes": {
+		"configuration": {
+			"type": "object",
+			"title": "TypeScriptImporter Configuration",
+			"properties": {
+				"TypeScriptImporter.showNamespaceOnImports": {
+					"type": "boolean",
+					"default": true,
+					"description": "When set to true, imports will show the namespace in parenthesis"
+				},
+				"TypeScriptImporter.TSConfigFrameworkName": {
+					"type": "string",
+					"default": "frameworks",
+					"description": "The node within TSConfig that references depenant frameworks that we have access to. Any framework listed in here will provide code hints. Requires Reload to take affect"
+				},
+				"TypeScriptImporter.IgnoreListedFolders": {
+					"type": "string",
+					"default": "./, .scripts/",
+					"description": "Comma separated string. These folders will be excluded from code hints. This is useful if you have a mix of CommonJS and Namespaces"
+				},
+				"TypeScriptImporter.SyncInterval": {
+					"type": "number",
+					"default": "15",
+					"description": "How often to resync for changes. Advanced users only, can cause instability"
+				}
+			}
+		}
+	},
+	"scripts": {
+		"vscode:prepublish": "tsc -p ./",
+		"compile": "tsc -watch -p ./",
+		"update-vscode": "node ./node_modules/vscode/bin/install",
+		"postinstall": "node ./node_modules/vscode/bin/install"
+	},
+	"devDependencies": {
+		"@types/mocha": "^2.2.33",
+		"@types/node": "^6.0.52",
+		"typescript": "^2.1.5",
+		"vscode": "^1.0.3"
+	},
+	"dependencies": {
+		"vscode-languageclient": "^3.0.3",
+		"glob": "~7.0.3"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/starkevin/VSCode-TypeScript-Importer"
+	},
+	"__metadata": {
+		"id": "a697ef49-8649-4960-903b-de276438d8b6",
+		"publisherId": "311dea8a-8ffd-491b-8c0a-b5672afdc784",
+		"publisherDisplayName": "kevinmcgowan"
+	}
+}

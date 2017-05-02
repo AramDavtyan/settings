@@ -1,0 +1,45 @@
+{
+	"name": "theme-oceanic-next-italic",
+	"displayName": "Oceanic Next Italic",
+	"description": "Customized Oceanic Next theme with italic flavours",
+	"version": "1.1.14",
+	"publisher": "SintrumIT",
+	"engines": {
+		"vscode": "^1.0.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"icon": "images/icon.png",
+	"galleryBanner": {
+		"color": "#5fb3b3",
+		"theme": "dark"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Oceanic Next Italic",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Oceanic Next Italic.tmTheme"
+			},
+			{
+				"label": "Oceanic Next Italic - White",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Oceanic Next Italic - White.tmTheme"
+			}
+		]
+	},
+	"bugs": {
+		"url": "https://github.com/SintrumIT/oceanic-next-italic/issues"
+	},
+	"homepage": "https://github.com/SintrumIT/oceanic-next-italic/blob/master/README.md",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/SintrumIT/oceanic-next-italic.git"
+	},
+	"__metadata": {
+		"id": "455d812b-ef0f-4f0b-b680-87bd6a1da56b",
+		"publisherId": "633c3ff3-0cd7-4a2a-b2c7-dba146bcad60",
+		"publisherDisplayName": "SintrumIT"
+	}
+}

@@ -1,4 +1,3 @@
-// Place your key bindings in this file to overwrite the defaults
 [
     {
         "key": "ctrl+shift+m",
@@ -85,4 +84,29 @@
         "command": "cursorWordEndRightSelect",
         "when": "editorTextFocus"
     },
+    // {
+    //     "key": "ctrl+s",
+    //     "command": "editor.action.formatDocument",
+    //     "when": "editorTextFocus"
+    // },
+    {
+        "key": "alt+left",
+        "command": "cursorWordStartLeft",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "alt+right",
+        "command": "cursorWordEndRight",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "alt+down",
+        "command": "-editor.action.moveLinesDownAction",
+        "when": "editorTextFocus && !editorReadonly"
+    },
+    {
+        "key": "alt+up",
+        "command": "-editor.action.moveLinesUpAction",
+        "when": "editorTextFocus && !editorReadonly"
+    }
 ]

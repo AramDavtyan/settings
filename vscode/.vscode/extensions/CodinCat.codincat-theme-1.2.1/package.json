@@ -1,0 +1,49 @@
+{
+	"name": "codincat-theme",
+	"displayName": "CodinCat-theme",
+	"description": "An easy on eyes color scheme",
+	"keywords": [
+		"dark",
+		"theme",
+		"dimmed",
+		"color scheme"
+	],
+	"version": "1.2.1",
+	"publisher": "CodinCat",
+	"repository": "https://github.com/CodinCat/codincat-theme",
+	"icon": "icon.png",
+	"galleryBanner": {
+		"color": "#51595d",
+		"theme": "dark"
+	},
+	"engines": {
+		"vscode": "^1.10.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "CodinCat",
+				"uiTheme": "vs-dark",
+				"path": "./themes/codincat.tmTheme"
+			},
+			{
+				"label": "CodinCat Dimmed",
+				"uiTheme": "vs-dark",
+				"path": "./themes/codincat-dimmed.tmTheme"
+			},
+			{
+				"label": "CodinCat Lighter",
+				"uiTheme": "vs-dark",
+				"path": "./themes/codincat-lighter.tmTheme"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "f4ca4394-5eb6-4ecc-b891-c91763d10cec",
+		"publisherId": "19fb0c18-dd1d-4336-9591-b82c2e95a0f6",
+		"publisherDisplayName": "CodinCat"
+	}
+}

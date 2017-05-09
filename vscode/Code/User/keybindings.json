@@ -108,5 +108,9 @@
         "key": "alt+up",
         "command": "-editor.action.moveLinesUpAction",
         "when": "editorTextFocus && !editorReadonly"
+    },
+    {
+        "key": "ctrl+shift+z",
+        "command": "workbench.action.toggleMaximizedPanel"
     }
 ]

@@ -397,10 +397,11 @@
         }
     },
     "telemetry.machineId": "64c13ca975d90fb171b8899750622b9c237303cd84846aba7d911aebaa107d95",
-    "theme": "vs-dark SintrumIT-theme-oceanic-next-italic-themes-Oceanic-Next-Italic---White-tmTheme",
+    "theme": "vs-dark poga-theme-hybrid-operator-themes-hybrid-operator-tmTheme",
     "pickerWorkingDir": "/home/aram/Documents/www",
     "openedPathsList": {
         "files": [
+            "/home/aram/Downloads/[javascript.ru] JavaScript, DOM, интерфейсы [2015]/README.txt",
             "/home/aram/Downloads/asdasd.txt",
             "/home/aram/Downloads/gggg.txt",
             "/home/aram/Downloads/test100Mb.db"
@@ -424,5 +425,6 @@
                 "height": 872
             }
         }
-    }
+    },
+    "themeBackground": "#1b2b34"
 }

@@ -84,11 +84,6 @@
         "command": "cursorWordEndRightSelect",
         "when": "editorTextFocus"
     },
-    // {
-    //     "key": "ctrl+s",
-    //     "command": "editor.action.formatDocument",
-    //     "when": "editorTextFocus"
-    // },
     {
         "key": "alt+left",
         "command": "cursorWordStartLeft",
@@ -110,7 +105,8 @@
         "when": "editorTextFocus && !editorReadonly"
     },
     {
-        "key": "ctrl+shift+z",
-        "command": "workbench.action.toggleMaximizedPanel"
+        "key": "alt+enter",
+        "command": "editor.action.changeAll",
+        "when": "editorTextFocus && !editorReadonly"
     }
 ]

@@ -401,16 +401,24 @@
     "pickerWorkingDir": "/home/aram/Documents/www",
     "openedPathsList": {
         "files": [
+            "/home/aram/Documents/www/react-express/code",
+            "/home/aram/Documents/www/react/app/index.js",
+            "/home/aram/Documents/www/react/app/component/reducers/lists.js",
+            "/home/aram/Documents/www/react/app/component/game.js",
+            "/home/aram/Documents/www/react-express/webpack.config.js",
             "/home/aram/Downloads/[javascript.ru] JavaScript, DOM, интерфейсы [2015]/README.txt",
             "/home/aram/Downloads/asdasd.txt",
             "/home/aram/Downloads/gggg.txt",
             "/home/aram/Downloads/test100Mb.db"
         ],
         "folders": [
+            "/home/aram/Documents/www/decorator",
             "/home/aram/Documents/www/react-express",
+            "/usr/share/code",
+            "/home/aram/Documents/www/react",
             "/home/aram/Documents/www/express",
-            "/home/aram/Documents/www/node-test",
-            "/home/aram/Documents/www/react"
+            "/home/aram/.vscode/extensions/poga.theme-hybrid-operator-2.1.0",
+            "/home/aram/Documents/www/node-test"
         ]
     },
     "windowsState": {

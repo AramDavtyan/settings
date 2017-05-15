@@ -8,8 +8,10 @@
     "editor.fontFamily": "'Operator Mono book', 'Courier New', monospace, 'Droid Sans Fallback'",
     "json.format.enable": true,
     "editor.fontSize": 18,
-    "workbench.colorTheme": "Hybrid Operator",
     "workbench.colorCustomizations": {
+        "scrollbarSlider.background": "#F5AA0020",
+        "scrollbarSlider.hoverBackground": "#F5AA0030",
+        "scrollbarSlider.activeBackground": "#F5AA0030",
         "editorCursor.foreground": "#FF0000",
         "sideBar.background": "#1B2B34",
         "editor.background": "#1B2B34",
@@ -22,7 +24,7 @@
         "editor.findRangeHighlightBackground": "#F5AA0030",
         "editor.wordHighlightBackground": "#F5AA0030",
         "editor.lineHighlightBackground": "#cccccc20",
-        "statusBar.background": "#1B2B34",
+        "statusBar.background": "#1B2B3400",
         "tab.activeBackground": "#1B2B34",
         "tab.inactiveBackground": "#F5FF0015",
         "tab.border": "#F5CC0030",
@@ -45,9 +47,18 @@
     "window.menuBarVisibility": "toggle",
     "explorer.openEditors.visible": 0,
     "workbench.activityBar.visible": false,
-    "editor.matchBrackets": false,
+    "editor.matchBrackets": true,
     "editor.stablePeek": true,
     "editor.formatOnSave": true,
     "editor.wordWrapColumn": 122,
-    "editor.renderIndentGuides": true
+    "[html]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnPaste": true,
+        "editor.matchBrackets": false
+    },
+    "workbench.colorTheme": "Hybrid Operator",
+    "editor.renderControlCharacters": true,
+    "terminal.integrated.fontFamily": "Operator Mono book",
+    "workbench.statusBar.visible": false,
+    "editor.renderIndentGuides": true,
 }

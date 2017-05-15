@@ -1,0 +1,39 @@
+{
+	"name": "vscode-react-redux-snippets",
+	"displayName": "React/Redux Snippets",
+	"description": "React/Redux Snippets for Visual Studio Code",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/trangcongthanh/vscode-react-redux-snippets"
+	},
+	"version": "0.3.1",
+	"icon": "resources/logo.png",
+	"publisher": "thanhtrang",
+	"engines": {
+		"vscode": "^1.5.0"
+	},
+	"categories": [
+		"Snippets"
+	],
+	"contributes": {
+		"snippets": [
+			{
+				"language": "javascript",
+				"path": "./snippets/javascript.json"
+			},
+			{
+				"language": "javascript",
+				"path": "./snippets/semicolon.json"
+			},
+			{
+				"language": "typescript",
+				"path": "./snippets/typescripts.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "2ca2f59b-1b34-4a0d-9ecf-7fb9ebf561ee",
+		"publisherId": "881b7b7f-4268-4486-821e-8a30013eebbb",
+		"publisherDisplayName": "Thành Trang"
+	}
+}

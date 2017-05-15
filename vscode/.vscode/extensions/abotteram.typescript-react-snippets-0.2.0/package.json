@@ -1,0 +1,39 @@
+{
+	"name": "typescript-react-snippets",
+	"displayName": "Typescript React/Redux Snippets",
+	"icon": "images/typescript-react.png",
+	"publisher": "abotteram",
+	"description": "Typescript React Snippets",
+	"version": "0.2.0",
+	"engines": {
+		"vscode": "^0.10.5"
+	},
+	"categories": [
+		"Snippets"
+	],
+	"license": "SEE LICENSE IN LICENSE.md",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Xyfi/typescript-react-snippets"
+	},
+	"contributes": {
+		"snippets": [
+			{
+				"language": "typescriptreact",
+				"path": "./snippets/typescriptreact.json"
+			}
+		]
+	},
+	"keywords": [
+		"typescript",
+		"react",
+		"redux",
+		"react-redux",
+		"snippets"
+	],
+	"__metadata": {
+		"id": "715aa284-6075-4de1-bd19-61f1b214683a",
+		"publisherId": "79e0463a-74b0-4d03-8e1f-628d02b65961",
+		"publisherDisplayName": "Alexander Botteram"
+	}
+}

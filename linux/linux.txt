@@ -33,6 +33,11 @@ https://www.linux-apps.com/p/1136805/ download https://www.linux-apps.com/p/1136
 #thema
 
 
+#change capslock from esc
+sudo vim /etc/default/keyboard
+XKBOPTIONS="caps:swapescape"
+
+
 
 #change capslock from esc
 org/gnome/desctop/input-sources

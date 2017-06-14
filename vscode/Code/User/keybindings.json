@@ -108,5 +108,105 @@
         "key": "alt+enter",
         "command": "editor.action.changeAll",
         "when": "editorTextFocus && !editorReadonly"
+    },
+    {
+        "key": "capslock",
+        "command": "workbench.action.closeMessages",
+        "when": "globalMessageVisible"
+    },
+    {
+        "key": "capslock",
+        "command": "cancelSelection",
+        "when": "editorHasSelection && editorTextFocus"
+    },
+    {
+        "key": "capslock",
+        "command": "workbench.action.hideInterfaceOverview",
+        "when": "interfaceOverviewVisible"
+    },
+    {
+        "key": "capslock",
+        "command": "cancelRenameInput",
+        "when": "editorFocus && renameInputVisible"
+    },
+    {
+        "key": "capslock",
+        "command": "closeAccessibilityHelp",
+        "when": "accessibilityHelpWidgetVisible && editorFocus"
+    },
+    {
+        "key": "capslock",
+        "command": "closeBreakpointWidget",
+        "when": "breakpointWidgetVisible && editorFocus"
+    },
+    {
+        "key": "capslock",
+        "command": "closeFindWidget",
+        "when": "editorFocus && findWidgetVisible"
+    },
+    {
+        "key": "capslock",
+        "command": "closeMarkersNavigation",
+        "when": "editorFocus && markersNavigationVisible"
+    },
+    {
+        "key": "capslock",
+        "command": "closeParameterHints",
+        "when": "editorTextFocus && parameterHintsVisible"
+    },
+    {
+        "key": "capslock",
+        "command": "closeReferenceSearch",
+        "when": "referenceSearchVisible && !config.editor.stablePeek"
+    },
+    {
+        "key": "capslock",
+        "command": "closeReferenceSearchEditor",
+        "when": "inReferenceSearchEditor && !config.editor.stablePeek"
+    },
+    {
+        "key": "capslock",
+        "command": "workbench.action.closeQuickOpen",
+        "when": "inQuickOpen"
+    },
+    {
+        "key": "capslock",
+        "command": "leaveSnippet",
+        "when": "editorTextFocus && inSnippetMode"
+    },
+    {
+        "key": "capslock",
+        "command": "list.clear",
+        "when": "listFocus"
+    },
+    {
+        "key": "capslock",
+        "command": "removeSecondaryCursors",
+        "when": "editorHasMultipleSelections && editorTextFocus"
+    },
+    {
+        "key": "capslock",
+        "command": "search.action.cancel",
+        "when": "listFocus && searchViewletVisible"
+    },
+    {
+        "key": "capslock",
+        "command": "hideSuggestWidget",
+        "when": "editorTextFocus && suggestWidgetVisible"
+    },
+    {
+        "key": "capslock",
+        "command": "leaveEditorMessage",
+        "when": "messageVisible"
+    },
+    {
+        "key": "capslock",
+        "command": "closeReplaceInFilesWidget",
+        "when": "replaceInputBoxFocus && searchViewletVisible"
+    },
+    {
+        "key": "capslock capslock",
+        "command": "workbench.action.exitZenMode",
+        "when": "inZenMode"
     }
 ]

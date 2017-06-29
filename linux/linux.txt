@@ -1,5 +1,7 @@
 scp -P 1986 /home/aram/downloads/nginx_signing.key aram@109.75.35.157:/home/aram/
 
+https://github.com/BetConstruct/spring-front-end
+
 mysql -uroot -p198600 blog < blog.sql
 
 fc-list | grep FiraCode-Regular.otf

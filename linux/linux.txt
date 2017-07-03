@@ -4,6 +4,8 @@ https://github.com/BetConstruct/spring-front-end
 
 mysql -uroot -p198600 blog < blog.sql
 
+echo fs.inotify.max_user_watches=524298 | sudo tee -a /etc/sysctl.conf && sudo sysctl -p 
+
 fc-list | grep FiraCode-Regular.otf
 
 sudo apt-get install ttf-mscorefonts-installer

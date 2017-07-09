@@ -5,9 +5,9 @@
     "editor.renderLineHighlight": "gutter",
     "editor.renderWhitespace": "none",
     "terminal.integrated.cursorStyle": "line",
-    "editor.fontFamily": "'Operator Mono book', 'Courier New', monospace, 'Droid Sans Fallback'",
+    "editor.fontFamily": "Consolas, 'Courier New', monospace",
     "json.format.enable": true,
-    "editor.fontSize": 18,
+    "editor.fontSize": 16,
     "workbench.colorCustomizations": {
         "scrollbarSlider.background": "#F5AA0050",
         "scrollbarSlider.hoverBackground": "#F5AA0065",

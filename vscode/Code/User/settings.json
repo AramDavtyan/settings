@@ -62,5 +62,12 @@
     "workbench.statusBar.visible": false,
     "editor.renderIndentGuides": true,
     "editor.suggestLineHeight": 20,
-    "window.zoomLevel": 0
+    "window.zoomLevel": 0,
+    "search.exclude": {
+        "**/.git": true,
+        "**/node_modules": true,
+        "**/.history": true,
+        "**/bower_components": true,
+        "**/tmp": true
+    }
 }

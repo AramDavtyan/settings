@@ -9,6 +9,7 @@
     "json.format.enable": true,
     "editor.fontSize": 16,
     "workbench.colorCustomizations": {
+         "contrastActiveBorder": "#00AA0080",
         "scrollbarSlider.background": "#F5AA0050",
         "scrollbarSlider.hoverBackground": "#F5AA0065",
         "scrollbarSlider.activeBackground": "#F5AA0065",
@@ -22,7 +23,8 @@
         "editor.findMatchBackground": "#F5AA0030",
         "editor.findMatchHighlightBackground": "#F5AA0030",
         "editor.findRangeHighlightBackground": "#F5AA0030",
-        "editor.wordHighlightBackground": "#009688",
+        "editor.wordHighlightBackground": "#00968850",
+        "editor.wordHighlightStrongBackground": "#ffdeaa30",
         "editor.lineHighlightBackground": "#cccccc20",
         "statusBar.background": "#1B2B3400",
         "tab.activeBackground": "#1B2B34",

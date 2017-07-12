@@ -9,7 +9,7 @@
     "json.format.enable": true,
     "editor.fontSize": 16,
     "workbench.colorCustomizations": {
-         "contrastActiveBorder": "#00AA0080",
+        "contrastActiveBorder": "#00AA0080",
         "scrollbarSlider.background": "#F5AA0050",
         "scrollbarSlider.hoverBackground": "#F5AA0065",
         "scrollbarSlider.activeBackground": "#F5AA0065",
@@ -42,7 +42,7 @@
     "terminal.integrated.shell.linux": "/bin/zsh",
     "editor.tabSize": 2,
     "editor.insertSpaces": true,
-    "editor.wordWrap": "bounded",
+    "editor.wordWrap": "off",
     "editor.formatOnType": true,
     "workbench.welcome.enabled": false,
     "editor.cursorStyle": "line",
@@ -65,11 +65,13 @@
     "editor.renderIndentGuides": true,
     "editor.suggestLineHeight": 20,
     "window.zoomLevel": 0,
+    "previewServer.port": 4200,
     "search.exclude": {
         "**/.git": true,
         "**/node_modules": true,
         "**/.history": true,
         "**/bower_components": true,
         "**/tmp": true
-    }
+    },
+    "editor.minimap.enabled": false
 }

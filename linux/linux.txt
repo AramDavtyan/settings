@@ -20,7 +20,10 @@ fc-cache -f
 
 #fira code install
 
-
+#keywords remove ctrl+alt+up and ctrl+alt+down
+gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-down "['']"
+gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-up "['']"
+#keywords
 
 
 #driver intel

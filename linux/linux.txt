@@ -6,6 +6,9 @@ https://github.com/BetConstruct/spring-front-end
 
 mysql -uroot -p198600 blog < blog.sql
 
+when error cannot open display: :0
+xhost +local:
+
 aram ALL=(ALL) NOPASSWD:ALL
 
 echo fs.inotify.max_user_watches=524298 | sudo tee -a /etc/sysctl.conf && sudo sysctl -p 

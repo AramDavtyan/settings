@@ -1,5 +1,8 @@
 scp -P 1986 /home/aram/downloads/nginx_signing.key aram@109.75.35.157:/home/aram/
 
+#set mouse speed
+xset m 3 3
+
 vim /etc/sysctl.conf and add vm.swappiness = 10
 
 https://github.com/BetConstruct/spring-front-end

@@ -1,0 +1,99 @@
+{
+	"name": "staticserver",
+	"displayName": "StaticServer",
+	"description": "Preview local static html file server",
+	"version": "0.0.5",
+	"publisher": "gaogeek",
+	"engines": {
+		"vscode": "^1.5.0"
+	},
+	"icon": "img/icon.png",
+	"galleryBanner": {
+		"color": "#ecf0f1"
+	},
+	"keywords": [
+		"hosting",
+		"web",
+		"web server",
+		"local server"
+	],
+	"categories": [
+		"Other"
+	],
+	"activationEvents": [
+		"onCommand:staticserver.start",
+		"onCommand:staticserver.stop"
+	],
+	"main": "./src/extension",
+	"contributes": {
+		"configuration": {
+			"type": "object",
+			"title": "StaticServer configuration",
+			"properties": {
+				"staticServer.portNumber": {
+					"type": "number",
+					"default": 9527,
+					"description": "Specifies the port number the Express server should listen to"
+				},
+				"staticServer.host": {
+					"type": "string",
+					"default": "localhost",
+					"description": "Specifies the host the Express server should listen to"
+				}
+			}
+		},
+		"menus": {
+			"editor/title": [
+				{
+					"command": "staticserver.start",
+					"group": "navigation"
+				}
+			],
+			"editor/context": [
+				{
+					"command": "staticserver.start",
+					"group": "navigation"
+				},
+				{
+					"command": "staticserver.stop",
+					"group": "navigation"
+				}
+			]
+		},
+		"commands": [
+			{
+				"command": "staticserver.start",
+				"title": "StaticServer Start",
+				"icon": {
+					"light": "img/icon.png",
+					"dark": "img/icon.png"
+				}
+			},
+			{
+				"command": "staticserver.stop",
+				"title": "StaticServer Stop"
+			}
+		],
+		"keybindings": [
+			{
+				"command": "staticserver.start",
+				"key": "ctrl+shift+enter"
+			}
+		]
+	},
+	"scripts": {
+		"postinstall": "node ./node_modules/vscode/bin/install"
+	},
+	"devDependencies": {
+		"vscode": "^1.0.0"
+	},
+	"dependencies": {
+		"express": "^4.14.1",
+		"open": "0.0.5"
+	},
+	"__metadata": {
+		"id": "588e883a-d396-4926-ad1c-57166182ecc5",
+		"publisherId": "20788d1f-a645-4c41-bafb-e0cf9eb762f4",
+		"publisherDisplayName": "gaogeek"
+	}
+}
